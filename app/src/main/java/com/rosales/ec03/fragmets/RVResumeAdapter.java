@@ -19,7 +19,7 @@ import coil.ImageLoader;
 import coil.request.ImageRequest;
 
 public class RVResumeAdapter extends RecyclerView.Adapter <RVResumeAdapter.ResumeVH>{
-    private List<Principal> shows;
+    private List<Principal> shows ;
 
     public RVResumeAdapter(List<Principal> shows) {
         this.shows = shows;

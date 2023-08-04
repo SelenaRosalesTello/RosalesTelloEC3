@@ -46,7 +46,7 @@ public class HomeFragment extends Fragment {
         binding.rvMoviesResume.setLayoutManager(layoutManager);
     }
 
-    private List<Principal> getData(){
+    private List<Principal> getData() {
         List<Principal> shows = new ArrayList<>();
         shows.add(new Platos("Ceviche","https://peru.info/archivos/publicacion/24-imagen-1316321112018.jpg",2));
         shows.add(new Platos("Arroz con pollo","https://imgmedia.buenazo.pe/1200x660/buenazo/original/2022/10/24/60d89da6913c240e6725db08.jpg",2));

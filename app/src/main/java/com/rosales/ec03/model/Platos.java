@@ -1,7 +1,7 @@
 package com.rosales.ec03.model;
 
 public class Platos extends Principal {
-    private int season;
+    private int season ;
 
 
     public Platos(String name, String imgUrl, int season) {

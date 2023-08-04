@@ -11,7 +11,7 @@ import com.rosales.ec03.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
     //private Button btnGetStarted;
-    private ActivityMainBinding binding;
+    private ActivityMainBinding binding ;
 
 
     @Override

@@ -16,7 +16,7 @@ public class InfoFragment extends Fragment {
     private FragmentHomeBinding binding;
 
     @Override
-    public void onCreate(Bundle savedInstanceState) {
+    public void onCreate(Bundle savedInstanceState)  {
         super.onCreate(savedInstanceState);
 
     }

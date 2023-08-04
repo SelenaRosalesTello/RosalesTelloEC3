@@ -2,7 +2,7 @@ package com.rosales.ec03.model;
 
 public class Principal {
     private String name;
-    private String imgUrl;
+    private String imgUrl  ;
 
     public Principal(String name, String imgUrl) {
         this.name = name;

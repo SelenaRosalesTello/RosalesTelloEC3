@@ -13,10 +13,10 @@ import com.google.android.material.snackbar.Snackbar;
 import com.rosales.ec03.databinding.ActivityPrincipalBinding;
 import com.rosales.ec03.fragmets.HomeFragment;
 
-public class PrincipalActivity extends AppCompatActivity {
+public class PrincipalActivity extends AppCompatActivity  {
 
     private ActivityPrincipalBinding binding;
-    public static String EMAIL = "EMAIL";
+    public static String EMAIL = "EMAIL" ;
     private String email;
 
     @Override

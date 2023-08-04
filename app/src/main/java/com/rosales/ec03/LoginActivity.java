@@ -15,7 +15,7 @@ import com.rosales.ec03.databinding.ActivityLoginBinding;
 import java.util.regex.Pattern;
 
 public class LoginActivity extends AppCompatActivity {
-    private ActivityLoginBinding binding;
+    private ActivityLoginBinding binding  ;
 
 
     @Override
